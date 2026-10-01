@@ -1,0 +1,126 @@
+{
+  "company": {
+    "name": "PT. Samli Maju Sukses",
+    "tagline": "Together, we deliver your goods safely and reliably.",
+    "industry": "Trucking Logistik & Distribusi Barang",
+    "founded": "2019",
+    "logo": {
+      "icon": "/assets/clients/logo-icon.png",
+      "text": "SAMLI MAJU SUKSES",
+      "showText": false
+    }
+  },
+  "nav": [
+    { "label": "Beranda", "href": "#hero" },
+    { "label": "Tentang Kami", "href": "#profil" },
+    { "label": "Layanan", "href": "#layanan" },
+    { "label": "Client", "href": "#client" },
+    { "label": "Keunggulan", "href": "#keunggulan" },
+    { "label": "Kontak", "href": "#kontak" }
+  ],
+  "hero": {
+    "backgroundImage": "/assets/hero-truck.jpg",
+    "headline": "Together, We Deliver Your Goods Safely and Reliably",
+    "subheadline": "Solusi logistik terpercaya untuk kebutuhan pengiriman barang Anda dari Sabang sampai Merauke.",
+    "ctaPrimary": {
+      "label": "Chat via WhatsApp",
+      "type": "whatsapp"
+    },
+    "ctaSecondary": {
+      "label": "Lihat Layanan Kami",
+      "href": "#layanan"
+    }
+  },
+  "profile": {
+    "title": "Tentang Kami",
+    "description": "PT. Samli Maju Sukses adalah perusahaan yang bergerak di bidang Trucking Logistik dan Pendistributoran Barang, yang didirikan sejak tahun 2019 dan sudah mencapai pelanggan dari Sabang sampai Merauke. Dalam waktu yang relatif singkat berhasil meluaskan diri sebagai pelaku bisnis di bidang Trucking Logistik dan Pendistributoran Barang dari hulu sampai dengan hilir.",
+    "subDescription": "Dalam upaya terus meningkatkan kemampuan melalui layanan dan produk-produk berkualitas, kami PT. Samli Maju Sukses berdiri dengan dukungan tim yang berpengalaman dan solid, kami yakin bisa berkontribusi dalam memberikan produk yang berkualitas dan sesuai harapan.",
+    "goal": "Tujuan kami adalah untuk memenuhi kebutuhan para pelanggan dengan kualitas yang bagus, layanan yang profesional dan harga yang kompetitif/terjangkau.",
+    "image": "/assets/profil-office.jpg",
+    "vision": "Menjadi perusahaan logistik terkemuka yang menyediakan solusi pengiriman barang yang cepat, aman, dan terpercaya untuk memenuhi kebutuhan pelanggan di seluruh Indonesia.",
+    "mission": [
+      "Menyediakan layanan pengiriman barang yang terbaik dengan memanfaatkan teknologi dan sumber daya manusia yang berkualitas tinggi.",
+      "Membangun hubungan jangka panjang dengan pelanggan dengan memberikan layanan yang cepat, efisien, dan terpercaya.",
+      "Menjaga integritas dan kualitas layanan dengan mengikuti standar operasional yang ketat.",
+      "Mengembangkan jaringan distribusi dan infrastruktur yang kuat untuk memastikan pengiriman barang yang cepat dan tepat waktu.",
+      "Meningkatkan kepuasan pelanggan dengan memberikan layanan yang responsif, ramah, dan profesional."
+    ]
+  },
+  "services": [
+    {
+      "id": "cargo-thermoking",
+      "icon": "snowflake/refrigerator-truck icon",
+      "title": "Cargo Thermoking",
+      "description": "Sistem pendingin atau refrigerasi yang digunakan pada kendaraan pengangkut barang untuk menjaga kualitas produk yang terkandung di dalamnya selama pengiriman.",
+      "image": "/assets/new/tentang.jpeg"
+    },
+    {
+      "id": "jasa-ekspedisi",
+      "icon": "delivery-truck icon",
+      "title": "Jasa Ekspedisi",
+      "description": "Layanan pengiriman barang yang ditawarkan oleh perusahaan logistik untuk mengirimkan barang dari satu tempat ke tempat lain dengan aman dan tepat waktu.",
+      "image": "/assets/new/truk.jpeg"
+    },
+    {
+      "id": "cold-storage",
+      "icon": "warehouse/box-stack icon",
+      "title": "Cold Storage",
+      "description": "Fasilitas penyimpanan dengan suhu terkendali yang digunakan untuk menyimpan produk yang memerlukan suhu rendah, seperti makanan beku, sebelum dikirimkan ke tujuan akhir dalam logistik.",
+      "image": "/assets/new/cold.jpeg"
+    }
+  ],
+  "clients": [
+  { "name": "CV. Pangan Berkah Sentosa", "logo": "/assets/clients/pbs.png" },
+  { "name": "PT. Pangan Lestari", "logo": "/assets/clients/pangan-lestari.jpeg" },
+  { "name": "PT. Masuya Distra Sentosa", "logo": "/assets/clients/masuya-distra-sentosa.jpg" },
+  { "name": "PT. Beejay Seafood", "logo": "/assets/clients/beejay-seafood.png" },
+  { "name": "PT. Ciomas Adi Satwa", "logo": "/assets/clients/ciomas-adi-satwa.jpg" },
+  { "name": "Truffle Belly", "logo": "/assets/clients/truffle-belly.png" },
+  { "name": "Boga Group", "logo": "/assets/clients/boga-group.png" },
+  { "name": "Sokyo Japanese Restaurant", "logo": "/assets/clients/sokyo-japanese-restaurant.jpg" },
+  { "name": "Social Grill", "logo": "/assets/clients/social-grill.png" },
+  { "name": "Mr. Sumo - All You Can Eat", "logo": "/assets/clients/mr-sumo.png" },
+  { "name": "Xo Suki", "logo": "/assets/clients/xo-suki.jpg" },
+  { "name": "Excelso", "logo": "/assets/clients/excelso-logo.png" },
+  { "name": "Janji Jiwa", "logo": "/assets/clients/logo-janji-jiwa.png" },
+  { "name": "Dear Butter", "logo": "/assets/clients/logo_dearbutter.png" },
+  { "name": "Burger Bangor", "logo": "/assets/clients/burger-bangor.png" },
+  { "name": "Bakpao Chik Yen", "logo": "/assets/clients/chik-yen-bakpao.png" },
+  { "name": "Kebab Turki Baba Rafi", "logo": "/assets/clients/kebab-turki-baba-rafi.png" }],
+  "whyUs": [
+    { "icon": "gear/shield icon", "title": "Integritas" },
+    { "icon": "clock-check icon", "title": "Tepat Waktu" },
+    { "icon": "person-tie icon", "title": "Memiliki Tim Profesional" },
+    { "icon": "key/price-tag icon", "title": "Biaya Terjangkau" },
+    { "icon": "people-network icon", "title": "Berpengalaman" },
+    { "icon": "thumbs-up icon", "title": "Terpercaya" }
+  ],
+  
+  
+  "contact": {
+    "headOffice": {
+      "label": "Head Office",
+      "address": "Komplek Pergudangan Bizhub52 Blok A No. 01, Kariangau, Balikpapan – Kalimantan Timur."
+    },
+    "branchOffices": [
+      { "city": "Surabaya", "address": "Jl. Dusun Gondang RT.05 RW.02, Candinegoro-Wonoayu." },
+      { "city": "Jakarta", "address": "Jl. Husain Sastranegara, Kampung Baru, No. 117, Tangerang." }
+    ],
+    "email": "samlisms06@gmail.com",
+    "phones": ["0811-3564-455", "0878-2812-1983", "0821-5319-9589"],
+    "whatsapp": {
+      "number": "6281357313999",
+      "defaultMessage": "Halo PT. Samli Maju Sukses, saya ingin bertanya mengenai layanan logistik Anda."
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#0B1F3A",
+      "secondary": "#D4A94A",
+      "light": "#FFFFFF",
+      "dark": "#08172E",
+      "textOnDark": "#F5F5F0"
+    },
+    "font": "Inter"
+  }
+}
