@@ -106,7 +106,7 @@
       { "city": "Surabaya", "address": "Jl. Dusun Gondang RT.05 RW.02, Candinegoro-Wonoayu." },
       { "city": "Jakarta", "address": "Jl. Husain Sastranegara, Kampung Baru, No. 117, Tangerang." }
     ],
-    "email": ["samlisms06@gmail.com", "samlimajusukses@yahoo.com"]
+    "email": "samlisms06@gmail.com"
     "phones": ["0811-3564-455", "0878-2812-1983", "0821-5319-9589"],
     "whatsapp": {
       "number": "6281357313999",
