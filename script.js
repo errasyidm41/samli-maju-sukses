@@ -131,7 +131,7 @@
     }
   }
 
-  /* -------------------------------- HERO -------------------------------- */
+
   /* -------------------------------- HERO -------------------------------- */
 function renderHero(config) {
   // Logika background image dihapus agar murni menggunakan warna background CSS (bg-navy)
